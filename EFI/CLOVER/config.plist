@@ -1200,6 +1200,8 @@
 		<string>Mac-EE2EBD4B90B839A8</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
+		<key>BoardSerialNumber</key>
+		<string>pharse</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -1228,6 +1230,8 @@
 		<string>0x1A</string>
 		<key>ProductName</key>
 		<string>MacBook10,1</string>
+		<key>SerialNumber</key>
+		<string>C02X4NY1HH27</string>
 		<key>SmUUID</key>
 		<string>9E0F8C4A-B973-4B17-A8C8-8E178B855F04</string>
 		<key>Version</key>
@@ -1243,6 +1247,8 @@
 		<false/>
 		<key>#NvidiaWeb</key>
 		<false/>
+		<key>CustomUUID</key>
+		<string>D986E1FB-A042-49B0-87B8-DD8751E608BD</string>
 		<key>InjectKexts</key>
 		<string>Detect</string>
 	</dict>
