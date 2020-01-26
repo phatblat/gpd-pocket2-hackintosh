@@ -201,7 +201,7 @@
 					<key>Comment</key>
 					<string>Rename H_EC to EC__</string>
 					<key>Disabled</key>
-					<true/>
+					<false/>
 					<key>Find</key>
 					<data>SF9FQw==</data>
 					<key>Replace</key>
